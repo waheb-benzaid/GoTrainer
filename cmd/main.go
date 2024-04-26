@@ -14,12 +14,17 @@ func main() {
 	}
 
 	//declaration
-
 	a := 2
 	b := 2.1
 
 	fmt.Printf("a : %T %v \n",a,a)
 	fmt.Printf("b : %T %v \n",b,b)
+	
+	//points to learn :
+	 //1- Pointers
+	 //2- How to locate 
+
+	
 	}
 
 
