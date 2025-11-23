@@ -1,3 +1,3 @@
-module hello-go-trainer
+module example.com/firstApp
 
-go 1.22.3
+go 1.25.4
